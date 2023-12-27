@@ -206,9 +206,6 @@
 					"PackageIdentifier": "Microsoft.VCRedist.2005.x86"
 				},
 				{
-					"PackageIdentifier": "MacType.MacType"
-				},
-				{
 					"PackageIdentifier": "Microsoft.VisualStudioCode"
 				},
 				{
