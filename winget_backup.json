@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-12-27T17:56:39.659-00:00",
+	"CreationDate" : "2023-12-27T19:04:49.570-00:00",
 	"Sources" : 
 	[
 		{
@@ -73,7 +73,7 @@
 					"PackageIdentifier" : "Microsoft.Teams"
 				},
 				{
-					"PackageIdentifier" : "Mamba.Micromamba"
+					"PackageIdentifier" : "CondaForge.Mambaforge"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
