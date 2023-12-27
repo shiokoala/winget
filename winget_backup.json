@@ -116,9 +116,6 @@
 					"PackageIdentifier": "MusicBee.MusicBee"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Office"
-				},
-				{
 					"PackageIdentifier": "OBSProject.OBSStudio"
 				},
 				{
@@ -134,16 +131,10 @@
 					"PackageIdentifier": "Valve.Steam"
 				},
 				{
-					"PackageIdentifier": "Nikse.SubtitleEdit"
-				},
-				{
 					"PackageIdentifier": "SyncTrayzor.SyncTrayzor"
 				},
 				{
 					"PackageIdentifier": "Microsoft.Teams.Classic"
-				},
-				{
-					"PackageIdentifier": "TuxGuitar.TuxGuitar"
 				},
 				{
 					"PackageIdentifier": "VideoLAN.VLC"
@@ -171,9 +162,6 @@
 				},
 				{
 					"PackageIdentifier": "ALCPU.CoreTemp"
-				},
-				{
-					"PackageIdentifier": "RandyRants.SharpKeys"
 				},
 				{
 					"PackageIdentifier": "DuongDieuPhap.ImageGlass"
