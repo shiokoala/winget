@@ -1,263 +1,248 @@
 {
-	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate": "2023-12-27T14:13:58.726-00:00",
-	"Sources": [
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2023-12-27T17:56:39.659-00:00",
+	"Sources" : 
+	[
 		{
-			"Packages": [
+			"Packages" : 
+			[
 				{
-					"PackageIdentifier": "Bitwarden.Bitwarden"
+					"PackageIdentifier" : "Bitwarden.Bitwarden"
 				},
 				{
-					"PackageIdentifier": "AppbyTroye.KoodoReader"
+					"PackageIdentifier" : "AppbyTroye.KoodoReader"
 				},
 				{
-					"PackageIdentifier": "File-New-Project.EarTrumpet"
+					"PackageIdentifier" : "File-New-Project.EarTrumpet"
 				},
 				{
-					"PackageIdentifier": "Notion.Notion"
+					"PackageIdentifier" : "Notion.Notion"
 				},
 				{
-					"PackageIdentifier": "7zip.7zip"
+					"PackageIdentifier" : "Guru3D.Afterburner"
 				},
 				{
-					"PackageIdentifier": "Guru3D.Afterburner"
+					"PackageIdentifier" : "angryziber.AngryIPScanner"
 				},
 				{
-					"PackageIdentifier": "angryziber.AngryIPScanner"
+					"PackageIdentifier" : "Anki.Anki"
 				},
 				{
-					"PackageIdentifier": "Anki.Anki"
+					"PackageIdentifier" : "Audacity.Audacity"
 				},
 				{
-					"PackageIdentifier": "Audacity.Audacity"
+					"PackageIdentifier" : "Brave.Brave"
 				},
 				{
-					"PackageIdentifier": "Brave.Brave"
+					"PackageIdentifier" : "CPUID.HWMonitor"
 				},
 				{
-					"PackageIdentifier": "TGRMNSoftware.BulkRenameUtility"
+					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo"
 				},
 				{
-					"PackageIdentifier": "CPUID.HWMonitor"
+					"PackageIdentifier" : "Dell.DisplayManager"
 				},
 				{
-					"PackageIdentifier": "CrystalDewWorld.CrystalDiskInfo"
+					"PackageIdentifier" : "Discord.Discord"
 				},
 				{
-					"PackageIdentifier": "Dell.DisplayManager"
+					"PackageIdentifier" : "GIMP.GIMP"
 				},
 				{
-					"PackageIdentifier": "Discord.Discord"
+					"PackageIdentifier" : "GitHub.GitHubDesktop"
 				},
 				{
-					"PackageIdentifier": "GIMP.GIMP"
+					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier": "GitHub.GitHubDesktop"
+					"PackageIdentifier" : "HandBrake.HandBrake"
 				},
 				{
-					"PackageIdentifier": "Git.Git"
+					"PackageIdentifier" : "Xanashi.Icaros"
 				},
 				{
-					"PackageIdentifier": "Google.Chrome"
+					"PackageIdentifier" : "Julialang.Julia"
 				},
 				{
-					"PackageIdentifier": "HandBrake.HandBrake"
+					"PackageIdentifier" : "CodecGuide.K-LiteCodecPack.Full"
 				},
 				{
-					"PackageIdentifier": "Xanashi.Icaros"
+					"PackageIdentifier" : "LINE.LINE"
 				},
 				{
-					"PackageIdentifier": "Julialang.Julia"
+					"PackageIdentifier" : "Microsoft.Teams"
 				},
 				{
-					"PackageIdentifier": "Julialang.Julia"
+					"PackageIdentifier" : "Mamba.Micromamba"
 				},
 				{
-					"PackageIdentifier": "Julialang.Julia"
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
 				},
 				{
-					"PackageIdentifier": "CodecGuide.K-LiteCodecPack.Full"
+					"PackageIdentifier" : "Microsoft.AppInstaller"
 				},
 				{
-					"PackageIdentifier": "LINE.LINE"
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.7"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Teams"
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Edge"
+					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14"
 				},
 				{
-					"PackageIdentifier": "Microsoft.EdgeWebView2Runtime"
+					"PackageIdentifier" : "Microsoft.DevHome"
 				},
 				{
-					"PackageIdentifier": "Microsoft.AppInstaller"
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
-					"PackageIdentifier": "Microsoft.UI.Xaml.2.7"
+					"PackageIdentifier" : "Mozilla.Firefox"
 				},
 				{
-					"PackageIdentifier": "Microsoft.UI.Xaml.2.8"
+					"PackageIdentifier" : "Mozilla.Thunderbird"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCLibs.Desktop.14"
+					"PackageIdentifier" : "MusicBee.MusicBee"
 				},
 				{
-					"PackageIdentifier": "Microsoft.WindowsTerminal"
+					"PackageIdentifier" : "OBSProject.OBSStudio"
 				},
 				{
-					"PackageIdentifier": "Mozilla.Firefox"
+					"PackageIdentifier" : "Microsoft.OneDrive"
 				},
 				{
-					"PackageIdentifier": "Mozilla.Thunderbird"
+					"PackageIdentifier" : "ProtonTechnologies.ProtonMailBridge"
 				},
 				{
-					"PackageIdentifier": "MusicBee.MusicBee"
+					"PackageIdentifier" : "RaspberryPiFoundation.RaspberryPiImager"
 				},
 				{
-					"PackageIdentifier": "OBSProject.OBSStudio"
+					"PackageIdentifier" : "Spotify.Spotify"
 				},
 				{
-					"PackageIdentifier": "ProtonTechnologies.ProtonMailBridge"
+					"PackageIdentifier" : "Valve.Steam"
 				},
 				{
-					"PackageIdentifier": "RaspberryPiFoundation.RaspberryPiImager"
+					"PackageIdentifier" : "Microsoft.Teams.Classic"
 				},
 				{
-					"PackageIdentifier": "Spotify.Spotify"
+					"PackageIdentifier" : "AntibodySoftware.WizTree"
 				},
 				{
-					"PackageIdentifier": "Valve.Steam"
+					"PackageIdentifier" : "Zoom.Zoom"
 				},
 				{
-					"PackageIdentifier": "SyncTrayzor.SyncTrayzor"
+					"PackageIdentifier" : "DigitalScholar.Zotero"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Teams.Classic"
+					"PackageIdentifier" : "Obsidian.Obsidian"
 				},
 				{
-					"PackageIdentifier": "VideoLAN.VLC"
+					"PackageIdentifier" : "EmoteInteractive.RemoteMouse"
 				},
 				{
-					"PackageIdentifier": "AntibodySoftware.WizTree"
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
 				},
 				{
-					"PackageIdentifier": "Zoom.Zoom"
+					"PackageIdentifier" : "ALCPU.CoreTemp"
 				},
 				{
-					"PackageIdentifier": "DigitalScholar.Zotero"
+					"PackageIdentifier" : "Microsoft.Edge"
 				},
 				{
-					"PackageIdentifier": "Obsidian.Obsidian"
+					"PackageIdentifier" : "Neovim.Neovim"
 				},
 				{
-					"PackageIdentifier": "SlackTechnologies.Slack"
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
 				},
 				{
-					"PackageIdentifier": "EmoteInteractive.RemoteMouse"
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2013.x64"
+					"PackageIdentifier" : "GlavSoft.TightVNC"
 				},
 				{
-					"PackageIdentifier": "ALCPU.CoreTemp"
+					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
-					"PackageIdentifier": "DuongDieuPhap.ImageGlass"
+					"PackageIdentifier" : "Inkscape.Inkscape"
 				},
 				{
-					"PackageIdentifier": "Neovim.Neovim"
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2010.x64"
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
+					"PackageIdentifier" : "Google.NearbyShare"
 				},
 				{
-					"PackageIdentifier": "GlavSoft.TightVNC"
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
 				},
 				{
-					"PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.5"
+					"PackageIdentifier" : "SlackTechnologies.Slack"
 				},
 				{
-					"PackageIdentifier": "Inkscape.Inkscape"
+					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2015+.x86"
+					"PackageIdentifier" : "Microsoft.VCRedist.2005.x86"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2012.x86"
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
-					"PackageIdentifier": "Google.NearbyShare"
+					"PackageIdentifier" : "DuongDieuPhap.ImageGlass"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2008.x64"
+					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
-					"PackageIdentifier": "ColdTurkeySoftware.ColdTurkeyBlocker"
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
 				},
 				{
-					"PackageIdentifier": "Google.ChromeRemoteDesktop"
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2005.x86"
+					"PackageIdentifier" : "Mojang.MinecraftLauncher"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VisualStudioCode"
+					"PackageIdentifier" : "Nvidia.GeForceExperience"
 				},
 				{
-					"PackageIdentifier": "BlenderFoundation.Blender"
+					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2008.x86"
+					"PackageIdentifier" : "TrackerSoftware.PDF-XChangeEditor"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2013.x86"
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
 				},
 				{
-					"PackageIdentifier": "Mojang.MinecraftLauncher"
+					"PackageIdentifier" : "MPC-BE.MPC-BE"
 				},
 				{
-					"PackageIdentifier": "Nvidia.GeForceExperience"
+					"PackageIdentifier" : "SyncTrayzor.SyncTrayzor"
 				},
 				{
-					"PackageIdentifier": "TrackerSoftware.PDF-XChangeEditor"
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
 				},
 				{
-					"PackageIdentifier": "Microsoft.XNARedist"
+					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VisualStudioCode"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VCRedist.2010.x86"
-				},
-				{
-					"PackageIdentifier": "MPC-BE.MPC-BE"
-				},
-				{
-					"PackageIdentifier": "SyncTrayzor.SyncTrayzor"
-				},
-				{
-					"PackageIdentifier": "Microsoft.VCRedist.2012.x64"
-				},
-				{
-					"PackageIdentifier": "Microsoft.PowerToys"
-				},
-				{
-					"PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.6"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				}
 			],
-			"SourceDetails": {
-				"Argument": "https://cdn.winget.microsoft.com/cache",
-				"Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
-				"Name": "winget",
-				"Type": "Microsoft.PreIndexed.Package"
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
 			}
 		}
 	],
-	"WinGetVersion": "1.6.3482"
+	"WinGetVersion" : "1.6.3482"
 }
