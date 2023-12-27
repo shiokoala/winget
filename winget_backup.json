@@ -221,19 +221,10 @@
 					"PackageIdentifier": "MacType.MacType"
 				},
 				{
-					"PackageIdentifier": "Peppy.Osu!"
-				},
-				{
 					"PackageIdentifier": "Microsoft.VisualStudioCode"
 				},
 				{
 					"PackageIdentifier": "BlenderFoundation.Blender"
-				},
-				{
-					"PackageIdentifier": "Gluon.SceneBuilder"
-				},
-				{
-					"PackageIdentifier": "ManicTime.ManicTime"
 				},
 				{
 					"PackageIdentifier": "Microsoft.VCRedist.2008.x86"
@@ -249,9 +240,6 @@
 				},
 				{
 					"PackageIdentifier": "TrackerSoftware.PDF-XChangeEditor"
-				},
-				{
-					"PackageIdentifier": "EclipseAdoptium.Temurin.21.JDK"
 				},
 				{
 					"PackageIdentifier": "Microsoft.UpdateAssistant"
