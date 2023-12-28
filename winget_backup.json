@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-12-27T20:47:22.140-00:00",
+	"CreationDate" : "2023-12-27T22:12:32.003-00:00",
 	"Sources" : 
 	[
 		{
@@ -11,9 +11,6 @@
 				},
 				{
 					"PackageIdentifier" : "AppbyTroye.KoodoReader"
-				},
-				{
-					"PackageIdentifier" : "File-New-Project.EarTrumpet"
 				},
 				{
 					"PackageIdentifier" : "Notion.Notion"
